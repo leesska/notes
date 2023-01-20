@@ -159,6 +159,6 @@ header button {
 }
 
 .modal p {
-  background-color: red;
+  color: red;
 }
 </style>
