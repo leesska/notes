@@ -1,6 +1,6 @@
 # notes
 
-This template should help get you started developing with Vue 3 in Vite.
+2nd tiny project from [Vue3 course](https://www.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide)
 
 ## Recommended IDE Setup
 
